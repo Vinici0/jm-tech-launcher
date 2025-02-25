@@ -1,3 +1,6 @@
 [submodule "ms-cliente-persona"]
 	path = ms-cliente-persona
 	url = https://github.com/Vinici0/ms-cliente-persona.git
+[submodule "ms-cuenta-movimiento"]
+	path = ms-cuenta-movimiento
+	url = https://github.com/Vinici0/ms-cuenta-movimiento.git
