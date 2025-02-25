@@ -1,0 +1,3 @@
+[submodule "ms-cliente-persona"]
+	path = ms-cliente-persona
+	url = https://github.com/Vinici0/ms-cliente-persona.git
