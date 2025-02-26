@@ -7,7 +7,7 @@ Este monorepo contiene dos microservicios que conforman un sistema bancario:
 
 ## Descripción General
 
-Sistema bancario compuesto por microservicios desarrollados con Spring Boot y PostgreSQL que permite la gestión de clientes, cuentas y operaciones bancarias.
+Sistema bancario basado en microservicios (Spring Boot, PostgreSQL) para la gestión de clientes, cuentas y operaciones bancarias. Usa Spring WebFlux para un enfoque asíncrono y reactivo que mejora la escalabilidad y la concurrencia.
 
 ## Documentación API
 
